@@ -37,7 +37,3 @@ Feel free to reach out if you have any questions or want to collaborate.
 - Email: [ramajantahashildar07@gmail.com](https://ramajantahashildar07@gmail.com)
 - GitHub: [ramajan-tahashildar](https://github.com/ramajan-tahashildar)
 - LinkedIn: [ramajan-tahashildar](https://www.linkedin.com/in/ramajan-tahashildar-094b67227/)
-
----
-
-You can adjust this template based on your specific project and content.
